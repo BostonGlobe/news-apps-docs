@@ -1,6 +1,6 @@
 # Git workflow
 
-The basic guidelines for working on a small team project. The philosphy is to create a branch of every feature, and that every team member is responsible to handle merges to master.
+The basic guidelines for working on a small team project. The philosphy is to create a branch for every feature, and each team member is responsible to handle merges to master.
 
 ### Starting new feature:
 Stay up to date before creating new branch
@@ -50,5 +50,7 @@ git push --delete feature-name
 ```
 
 ### Work on another remote branch:
+``` git
 git fetch
 git checkout --track origin/feature-name -b feature-name
+```
