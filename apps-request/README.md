@@ -4,13 +4,13 @@
 
 ## Request
 We get pitched or asked to work on a project (story, tool, etc).
+
 **We want:** A brief pitch about the project (think elevator pitch). It should be high level, non-technical, and identify the primary user’s needs.
 
 Example: Faces of the Field:
 *We want users to be able to look at the demographic data of the field of runners through anecdotes of types of runners.  Highlight both the stories and the statistics to put a face to the data.*
 
-Supplemental information:
-**We want:**
+**Other things we want:**
 - Who is the target audience(s) and what is their desire?
 - Who are all the stakeholders involved? (reporters, devs, designers, editors, producers...)
 - What is the deadline?
