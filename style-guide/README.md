@@ -22,25 +22,11 @@ To indicate that a button is disabled, add the `btn--disabled` class alongside `
 <button class="btn btn--primary btn--disabled">Disabled Button</a>
 ```
 
-##### Disabled
-To indicate that a button is disabled, add the `btn--disabled` class alongside `btn` and an [ordinality](#ordinality) modifier.
-```html
-<button class="btn btn--primary btn--disabled">Disabled Button</a>
-```
-
 ##### Sizes
 To change the size of a button, add the `btn--small` or `btn--large` class alongside `btn` and an [ordinality](#ordinality) modifier. The default size is regular.
 ```html
 <button class="btn btn--primary btn--small">Small Button</button>
 <button class="btn btn--primary">Regular Button</button>
-<button class="btn btn--primary btn--large">Large Button</button>
-```
-
-##### Widths
-The width-modifying class changes the button to be relative to the width of its container. To create a button that takes up the full width of its container, add the `btn--full` class alongside `btn` and an [ordinality](#ordinality) modifier. To create a button that takes up half the width of its container, add the `btn--half` class alongside `btn` and an [ordinality](#ordinality) modifier.
-```html
-<button class="btn btn--primary btn--full">Full-width Button</button>
-<button class="btn btn--primary btn--half">Regular Button</button>
 <button class="btn btn--primary btn--large">Large Button</button>
 ```
 
