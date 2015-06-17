@@ -1,6 +1,4 @@
-# Style Guide
-
-## Buttons
+# Buttons
 To create a button, add the `btn` classn to any `a` or `button` element. This base class must be used alongside an [ordinality](#ordinality) modifier (and must serve as the base for all other modifiers).
 
 ##### Ordinality
