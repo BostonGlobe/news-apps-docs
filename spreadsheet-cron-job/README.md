@@ -31,7 +31,7 @@ End on 6/30/15
 When the cron job is setup, you will receive notice from Jira. The url to the data will most likely be `http://www.boston.com/partners/[your-filename-date].jsonp`.
 
 In your js file, you will need to create a function to fetch the jsonp. If you are using jQuery, it can look like this:
-```
+```javascript
 var fetchData = function(url) {
 	$.ajax({
 		url: url,
