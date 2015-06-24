@@ -1,6 +1,13 @@
 # Spreadsheet cron job
 Steps for setting up a cron job that will automatically convert a Google spreadsheet to jsonp at regular intervals. Only use this if you have a project where the data is regularly being updated after it launches for either a long period of time or very frequently.
 
+### Publish Google spreadsheet
+- Publish to web: file -> publish to web
+- Make public: share button -> advanced -> change "private only you can access" to "anyone with link"
+
+In the address bar, grab the key:
+...com/document/d/**1IiA5a5iCjbjOYvZVgPcjGzMy5PyfCzpPF-LnQdCdFI0**/edit
+
 ### Create a Jira ticket
 ```
 Project: operations
