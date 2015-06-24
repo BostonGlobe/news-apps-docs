@@ -1,5 +1,8 @@
+
 # Spreadsheet cron job
 Steps for setting up a cron job that will automatically convert a Google spreadsheet to jsonp at regular intervals. Only use this if you have a project where the data is regularly being updated after it launches for either a long period of time or very frequently.
+
+###  When to use and not
 
 ### Publish Google spreadsheet
 - Make sure the spreadsheet is *not* on Globe and is on bostonglobegraphics@gmail.com account
@@ -33,6 +36,8 @@ Result should be public
 Run every 30 minutes
 End on 6/30/15
 ```
+
+**Important**: Also, always make sure to test the url in the browser before submitting issue.
 
 **Note**: If you are using a sheet in the spreadsheet other than the *main* one, you might have to replace `gid=0` in the URL with a different number. When you have the sheet open in the browser, you will see the `gid` value in the address bar.
 
