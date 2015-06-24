@@ -10,6 +10,7 @@ In the address bar, grab the key:
 ...com/document/d/**1IiA5a5iCjbjOYvZVgPcjGzMy5PyfCzpPF-LnQdCdFI0**/edit
 
 ### Create a Jira ticket
+Go to [Jira](http://jira.boston.com) and create a new issue
 ```
 Project: operations
 Issue type: cron job
