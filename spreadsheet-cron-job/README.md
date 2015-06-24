@@ -12,10 +12,10 @@ In the address bar, grab the key:
 ### Create a Jira ticket
 Go to [Jira](http://jira.boston.com) and create a new issue
 ```
-Project: operations
-Issue type: cron job
+Project: Operations
+Issue type: Cronjob
 Summary: php to jsonp
-Add watchers: Mike Devlin
+Add watchers: mike.devlin
 
 Description:
 URL - http://private.boston.com/newsprojects/gs-to-json/fetch.php?key=[your-key]&gid=0&callback=onLoadData
