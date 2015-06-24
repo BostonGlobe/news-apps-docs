@@ -2,7 +2,9 @@
 
 A one stop shop for documentation and resources about our development processes.
 
-- [apps.bostonglobe.com template](apps-bg)
-- [base.css style guide](style-guide)
+- [style guide](https://bostonglobe.github.io/news-apps-style-guide)
 - [git workflow](git-workflow)
+- [standalone app](apps-bg)
+- [spreadsheet-cron-job](spreadsheet-cron-job)
+- [computer-setup](computer-setup)
 - [apps request](apps-request)
