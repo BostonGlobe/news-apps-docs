@@ -54,3 +54,7 @@ git push --delete feature-name
 git fetch
 git checkout --track origin/feature-name -b feature-name
 ```
+
+### Resources for learning git
+[http://www.git-tower.com/learn/git/ebook/command-line/introduction](http://www.git-tower.com/learn/git/ebook/command-line/introduction)
+[https://www.atlassian.com/git/tutorials/](https://www.atlassian.com/git/tutorials/)
