@@ -2,9 +2,9 @@
 Steps for setting up a cron job that will automatically convert a Google spreadsheet to jsonp at regular intervals. Only use this if you have a project where the data is regularly being updated after it launches for either a long period of time or very frequently.
 
 ### Publish Google spreadsheet
-- Make sure the spreadsheet is *not* on Globe and is on personal gmail account
-- Publish to web: file -> publish to web
-- Make public: share button -> advanced -> change "private only you can access" to "anyone with link"
+- Make sure the spreadsheet is *not* on Globe and is on bostonglobegraphics@gmail.com account
+- Publish to the web: file -> publish to web
+- Make public: blue share button (top right corner)  -> advanced -> change "private only you can access" to "anyone with the link"
 
 In the address bar, grab the key:
 ...com/document/d/**1IiA5a5iCjbjOYvZVgPcjGzMy5PyfCzpPF-LnQdCdFI0**/edit
