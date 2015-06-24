@@ -1,6 +1,6 @@
-# apps.bostonglobe.com
+# Standalone app (in-progress of being updated)
 
-Standalone projects driven by data or multimedia. 
+Standalone projects driven by data or multimedia that live on apps.bostonglobe.com
 
 ## Setup
 To be used as an extension to [globe graphic template](https://github.com/russellgoldenberg/globe-graphic-template). Follow the basic setup and then run `make app`.
