@@ -25,7 +25,7 @@ Run every 30 minutes
 End on 6/30/15
 ```
 
-**Note**: If you are using a sheet in the spreadsheet other than *main* one, you might have to replace `gid=0` in the URL with a different number. When you have the sheet open in the browser, you will see the `gid` value in the address bar.
+**Note**: If you are using a sheet in the spreadsheet other than the *main* one, you might have to replace `gid=0` in the URL with a different number. When you have the sheet open in the browser, you will see the `gid` value in the address bar.
 
 ### Load data in JavaScript file
 When the cron job is setup, you will receive notice from Jira. The url to the data will most likely be `http://www.boston.com/partners/[your-filename-date].jsonp`.
