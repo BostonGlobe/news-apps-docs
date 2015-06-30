@@ -16,7 +16,7 @@ How to setup an automated process that converts google spreadsheet to jsonp at r
 ### [apps request](apps-request)
 Ideal guide for how we work as a team
 
-### [imager resizer](image-resizer)
+### [image resizer](image-resizer)
 Command line utility to optimize and resize a folder of images
 
 ### [computer-setup](computer-setup)
