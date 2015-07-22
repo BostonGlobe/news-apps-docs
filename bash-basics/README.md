@@ -5,7 +5,7 @@ A simple guide to get comfortable with the command line.
 ## Utility reference
 - **pwd**: prints full path to the current directory
 - **ls**: lists the contents of the current directory
-- **cd [dir]**: Changes the current directory 
+- **cd [dir]**: Moves to a different directory
 - **mkdir [dir]**: Makes a new directory
 
 ## 2 minute walkthrough
