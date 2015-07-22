@@ -7,8 +7,11 @@ How to utilize the `base.css` file that is included on apps and iframe graphics
 ### [git workflow](git-workflow)
 Easily work on small collaborative projects using git
 
-### [standalone app](standalone-app)
-Instructions on how to setup and run the standalone app template 
+### [tools](tools)
+Tools to help reporters and producers create reusable features
+
+### [bash basics](bash-basics)
+A simple guide to get comfortable with the command line
 
 ### [spreadsheet-cron-job](spreadsheet-cron-job)
 How to setup an automated process that converts google spreadsheet to jsonp at regular intervals
