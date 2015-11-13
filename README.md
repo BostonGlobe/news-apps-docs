@@ -1,6 +1,9 @@
 # News Apps Docs
 A one stop shop for documentation and resources about our development processes
 
+### [computer-setup](computer-setup)
+Things you need when you start here
+
 ### [style guide](https://bostonglobe.github.io/news-apps-style-guide)
 How to utilize the `base.css` file that is included on apps and iframe graphics
 
@@ -22,8 +25,8 @@ Ideal guide for how we work as a team
 ### [image resizer](image-resizer)
 Command line utility to optimize and resize a folder of images
 
-### [computer-setup](computer-setup)
-Things you need when you start here
-
 ### [ai2html](ai2thml)
 Custom version of ai2html with BostonGlobe fonts
+
+### [shapfile data](https://github.com/bostonglobe/shapefiles)
+GeoJSON files for Massachusetts and Boston (state, towns, census tracts, etc.)
