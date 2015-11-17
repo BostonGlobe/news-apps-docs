@@ -10,7 +10,7 @@ How to utilize the `base.css` file that is included on apps and iframe graphics
 ### [git workflow](git-workflow)
 Easily work on small collaborative projects using git
 
-### [iframe template](https://bostonglobe.github.io/globe-graphic-template)
+### [iframe template](https://github.com/BostonGlobe/globe-graphic-template)
 Scaffolds the html, css, and js necessary for a responsive iframe graphic.
 
 ### [tools](tools)
