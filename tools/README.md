@@ -7,6 +7,9 @@ Copy & paste from a spreadsheet to create a responsive table super fast.
 ### [Responsive bar chart](http://russellgoldenberg.github.io/responsive-barchart-generator/)
 Copy & paste from a spreadsheet to create a responsive bar chart wicked fast.
 
+### [Responsive tile map](http://russellgoldenberg.github.io/responsive-grid-map-generator/)
+Copy & paste from a spreadsheet to create a responsive grid map crazy fast.
+
 ### [Responsive Brightcove video](http://russellgoldenberg.github.io/responsive-brightcove-video-generator/)
 Insert a Brightcove ID to create a responsive video player lightning fast.
 
