@@ -33,7 +33,7 @@ credit: Joe Mahoney / Globe Staff
 ```
 
 ## Graphic
-Get the public url of a published iframe grahpic and create the graphic object.
+Get the public url of a published iframe graphic and create the graphic object.
 
 Example:
 ```
