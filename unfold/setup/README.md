@@ -6,6 +6,7 @@ Follow the steps below to setup a new developing story
 * Log in to the **bostonglobegraphics** gmail account
 * In the `unfold` folder, create a new Document
 * Rename it
+* Copy over the content from the *unfold template* Doc
 
 ## Share Doc
 * Click the **Share** button the top right, then **Advanced**
