@@ -15,7 +15,7 @@ An automated tool for the newsroom to update breaking stories as they unfold, qu
 
 ## How do you create one?
 * Contact Laura Amico (or other editors/producers tbd) to setup a new Doc
-* Follow the simple [content guidelines](https://github.com/bostonglobe)
+* Follow the simple [content guidelines](guidelines).
 
 ## Who can you call for support or to get questions answered?
 * Russell Goldenberg (technical)
