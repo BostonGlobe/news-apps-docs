@@ -14,8 +14,9 @@ An automated tool for the newsroom to update breaking stories as they unfold, qu
 * Video
 
 ## How do you create one?
-* Contact Laura Amico (or other editors/producers tbd) to setup a new Doc
+* Contact Laura Amico (or other editors/producers tbd) to setup a new story
 * Follow the simple [content guidelines](guidelines).
+* [How to setup a new story](setup) (for producers)
 
 ## Who can you call for support or to get questions answered?
 * Russell Goldenberg (technical)
