@@ -36,4 +36,4 @@ name: something-happened
 * **name**: short, just letters and dashes instead of spaces
 
 ## Preview
-Once the new object is in the **Master List**, the new page will be created and updated every minute. If done right, the new story will show up at [http://dev.apps.bostonglobe.com/sandbox/unfold/]. This will have a link to the Google Doc and the internal story. The internal story url will be http://dev.apps.bostonglobe.com/developing-story/year-month-name, and the public url will be https://apps.bostonglobe.com/developing-story/year-month-name.
+Once the new object is in the *Master List*, the new page will be created and updated every minute. If done right, the new story will show up at http://dev.apps.bostonglobe.com/sandbox/unfold/. This will have a link to the Google Doc and the internal story. The internal story url will be http://dev.apps.bostonglobe.com/developing-story/year-month-name, and the public url will be https://apps.bostonglobe.com/developing-story/year-month-name.
