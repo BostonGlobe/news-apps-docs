@@ -3,11 +3,19 @@
 To add content to the story, reference the usage instructions below for each type of content.
 
 ## Subhed
+Insert the "key: value" combination of "hed: tk".
+
+Example:
+```
+hed: Donald Trump wins the presidential election
+```
+
+## Subhed
 Insert the "key: value" combination of "subhed: tk".
 
 Example:
 ```
-subhed: Three more identified
+subhed: How he made America great again
 ```
 
 ## Text
@@ -15,13 +23,13 @@ Simply write text.
 
 Example:
 ```
-There is something going on near the library.
+In a landslide victory, Donald Trump will become the 45th president of the United States of America.
 
 If you want a new paragraph, just make sure there is an empty line above like so.
 ```
 
 ## Image
-Get the public url of an image published from Methode and create the image object. Caption and credits are optional and can be left out.
+Get the public url of an image published from Methode (TODO how to) and create the image object. Caption and credits are optional and can be left out.
 
 Example: 
 ```
