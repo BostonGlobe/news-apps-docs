@@ -3,7 +3,7 @@
 To add content to the story, reference the usage instructions below for each type of content.
 
 ## Hed
-Insert the "key: value" combination of "hed: tk".
+Insert the `key: value` combination of `hed: tk`.
 
 Example:
 ```
@@ -11,7 +11,7 @@ hed: Donald Trump wins the presidential election
 ```
 
 ## Subhed
-Insert the "key: value" combination of "subhed: tk".
+Insert the `key: value` combination of `subhed: tk`.
 
 Example:
 ```
