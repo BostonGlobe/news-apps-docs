@@ -8,10 +8,10 @@ An automated tool for the newsroom to update breaking stories as they unfold, qu
 * Extended events (NH primary)
 
 ## What kind of content can be used?
-* Text
-* Image
-* Custom graphics (via the graphics team)
-* Video
+* [Text](guidelines#text)
+* [Image](guidelines#image)
+* [Graphic](guidelines#graphic) (via the graphics team)
+* Video (todo)
 
 ## How do you create one?
 * Contact Laura Amico (or other editors/producers tbd) to setup a new story
