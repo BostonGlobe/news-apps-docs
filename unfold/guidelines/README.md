@@ -2,7 +2,7 @@
 
 To add content to the story, reference the usage instructions below for each type of content.
 
-## Subhed
+## Hed
 Insert the "key: value" combination of "hed: tk".
 
 Example:
@@ -49,3 +49,6 @@ Example:
 src: https://c.o0bg.com/rw/Boston/2011-2020/WebGraphics/Business/BostonGlobe.com/reusable/unemployment/index.html
 {}
 ```
+
+## Video 
+TODO
