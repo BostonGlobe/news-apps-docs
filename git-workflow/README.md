@@ -46,7 +46,7 @@ git push origin master
 Delete local feature branch and remote (if it exists):
 ``` 
 git branch -d feature-name
-git push --delete feature-name
+git push origin --delete feature-name
 ```
 
 ### Work on another remote branch:
