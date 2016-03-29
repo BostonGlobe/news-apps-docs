@@ -36,7 +36,7 @@ git checkout master
 git pull
 ```
 
-And [delete the feature branch](delete-the feature branch).
+And [delete the feature branch](#delete-the feature branch).
 
 If not succesful or you do not have GitHub, you can do it manually:
 ```
@@ -59,7 +59,7 @@ git merge feature-name
 git push origin master
 ```
 
-And [delete the feature branch](delete-the-feature-branch).
+And [delete the feature branch](#delete-the-feature-branch).
 
 ### Delete the feature branch
 This will delete a feature branch both locally and then on the remote repository.
