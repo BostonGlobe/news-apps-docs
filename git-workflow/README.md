@@ -28,7 +28,7 @@ When you are ready to merge your feature into master, first make sure all your c
 * Go to the webpage of your remote repository branch
 * Click the green button "new pull request"
 * Adjust the info as needed, then click "create pull request"
-* If all goes well you can click the "merge" button
+* If all goes well you can click the "merge pull request"  and "confirm" button
 
 If successful, you can make your local repository up-to-date with the new feature in master:
 ```
@@ -36,7 +36,7 @@ git checkout master
 git pull
 ```
 
-And [delete the feature branch](delete the feature branch).
+And [delete the feature branch](delete-the feature branch).
 
 If not succesful or you do not have GitHub, you can do it manually:
 ```
@@ -59,7 +59,7 @@ git merge feature-name
 git push origin master
 ```
 
-And [delete the feature branch](delete the feature branch).
+And [delete the feature branch](delete-the-feature-branch).
 
 ### Delete the feature branch
 This will delete a feature branch both locally and then on the remote repository.
