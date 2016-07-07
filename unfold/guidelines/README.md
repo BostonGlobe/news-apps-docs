@@ -29,26 +29,31 @@ If you want a new paragraph, just make sure there is an empty line above like so
 ```
 
 ## Image
-Get the public url of an image published from Methode (TODO how to) and create the image object. Caption and credits are optional and can be left out.
+Get the public url of an image published from Methode OR MWB path to image. Caption and credits are optional and can be left out.
 
 Example: 
 ```
 {.image}
-src: https://c.o0bg.com/rf/image_585w/Boston/2011-2020/2015/12/10/BostonGlobe.com/Business/Images/carmax-tweet.jpg
+source: https://c.o0bg.com/rf/image_585w/Boston/2011-2020/2015/12/10/BostonGlobe.com/Business/Images/carmax-tweet.jpg
 caption: Cars in a parking lot
 credit: Joe Mahoney / Globe Staff
 {}
 ```
 
 ## Graphic
-Get the public url of a published iframe graphic and create the graphic object.
+Get the public url of a published iframe graphic OR MWB path to index.html file.
 
 Example:
 ```
 {.graphic}
-src: https://c.o0bg.com/rw/Boston/2011-2020/WebGraphics/Business/BostonGlobe.com/reusable/unemployment/index.html
+source: /Boston/Content/Metro/WebGraphics/2016/04/03school_lookup/index.html
 {}
 ```
 
-## Video 
-TODO
+## Video
+Get the id of a brightcove video
+```
+{.video}
+id: 5012569570001
+{}
+```
