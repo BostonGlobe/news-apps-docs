@@ -28,7 +28,7 @@ Ideal guide for how we work as a team
 ### [image resizer](image-resizer)
 Command line utility to optimize and resize a folder of images
 
-### [ai2html](ai2thml)
+### [ai2html](ai2html)
 Custom version of ai2html with BostonGlobe fonts
 
 ### [shapfile data](https://github.com/bostonglobe/shapefiles)
