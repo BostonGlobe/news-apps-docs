@@ -4,29 +4,22 @@ Follow the steps below to setup a new developing story
 
 ## Create Doc
 * Log in to the **bostonglobegraphics** gmail account
-* In the `unfold` folder, create a new Document
-* Rename it
-* Copy over the content from the *unfold template* Doc
+* In the `unfold` folder, make a copy of `unfold - TEMPLATE`
+* Rename it to `unfold - some name`
 
 ## Share Doc
-* Click the **Share** button the top right, then **Advanced**
-* Where it says "Private - Only you can access" click **Change**
-* Select **On - Anyone with the link**
-* Click **Save** and then **Done** on the next screen
+* Right click on the new doc and select **Get shareable link**
 
-## Publish Doc
-* Click **File > Publish to the web**
-* Click **Publish**
 
 ## Add Story to master list
-* In the `unfold` folder, open the *Master List* doc
-* Copy and paste the object below under **[stories]** 
+* Open the *unfold - MASTER LIST* doc
+* Create the following lines below, under **[stories]** 
 
 Example:
 ```
-id: 11wCzzpOOVg5g5o_MfAiP97mX2W_Cskyhv3cOZPmKoUM
-year: 2015
-month: 04
+id: put-google-doc-id-here
+year: 2016
+month: 07
 name: something-happened
 ```
 
@@ -37,4 +30,7 @@ name: something-happened
 * **name**: short, just letters and dashes instead of spaces
 
 ## Preview
-Once the new object is in the *Master List*, the new page will be created and updated every minute. If done right, the new story will show up at http://dev.apps.bostonglobe.com/sandbox/unfold/. This will have a link to the Google Doc and the internal story. The internal story url will be http://dev.apps.bostonglobe.com/developing-story/year-month-name, and the public url will be https://apps.bostonglobe.com/developing-story/year-month-name.
+Once the new contents are in the *unfold - MASTER LIST*, a new page will be created and updated every minute. If done correctly, the new story will show up on [the unfold internal page](http://unfold.bostonglobe.com).
+
+## Disable
+To stop updates and the ability to publish changes, simply remove the object from the *unfold - MASTER LIST*.
