@@ -2,12 +2,22 @@
 
 To add content to the story, reference the usage instructions below for each type of content.
 
+## Defaults
+All documents must contain a `hed` and `dek` up top. Optionally, you can include an `image` which will be used for social sharing, not visible on the page.
+
+Example:
+```
+hed: Trump is president
+dek: This will be a summary that explains how in two or three sentences.
+image: http://path/to/img.jpg 
+```
+
 ## Subhed
 Insert the `key: value` combination of `subhed: tk`.
 
 Example:
 ```
-subhed: How Trump became the president
+subhed: How Trump made America great
 ```
 
 ## Text

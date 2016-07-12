@@ -22,6 +22,5 @@ An automated tool for the newsroom to update breaking stories as they unfold, qu
 * Russell Goldenberg, Gabriel Florit technical
 * [insert names here] - workflow
 
-
 ### Development 
 [github repo](https://github.com/bostonglobe/unfold)
