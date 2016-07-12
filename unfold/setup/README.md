@@ -10,7 +10,7 @@ Follow the steps below to setup a new developing story
 ## Share Doc
 * Right click on the new doc and select **Get shareable link**
 
-**Note:** If share and edit from your Globe account, disable auto-caps by going to *Tools -> Preferences -> Automatically capitalize words (uncheck)*.
+**Note:** If you share and edit from your Globe account, disable auto-caps by going to *Tools -> Preferences -> Automatically capitalize words (uncheck)*.
 
 ## Add Story to master list
 * Open the `unfold - MASTER LIST` doc
