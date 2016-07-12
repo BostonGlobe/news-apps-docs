@@ -14,9 +14,8 @@ An automated tool for the newsroom to update breaking stories as they unfold, qu
 * [Video](guidelines#video)
 
 ## How do you create one?
-* Contact [insert names here] to setup a new story
-* Follow the simple [content guidelines](guidelines)
-* [How to setup a new story](setup) (for producers)
+* Contact [insert names here] to [setup a new story](setup)
+* Follow the [content guidelines](guidelines)
 
 ## Who can you call for support or to get questions answered?
 * Russell Goldenberg, Gabriel Florit technical
