@@ -27,7 +27,9 @@ Example:
 ```
 In a landslide victory, Donald Trump will become the 45th president of the United States of America.
 
-If you want a new paragraph, just make sure there is an empty line above like so. Here could be a <a href=http://bostonglobe.com>link</a> to something.
+If you want a new paragraph, just make sure there is an empty line above like so.
+
+There could be a <a href=http://bostonglobe.com>link</a> to something here.
 ```
 
 ## Image
