@@ -12,8 +12,8 @@ Follow the steps below to setup a new developing story
 
 
 ## Add Story to master list
-* Open the *unfold - MASTER LIST* doc
-* Create the following lines below, under **[stories]** 
+* Open the `unfold - MASTER LIST` doc
+* Create the following object below, under **[stories]** 
 
 Example:
 ```
@@ -30,7 +30,7 @@ name: something-happened
 * **name**: short, just letters and dashes instead of spaces
 
 ## Preview
-Once the new contents are in the *unfold - MASTER LIST*, a new page will be created and updated every minute. If done correctly, the new story will show up on [the unfold internal page](http://unfold.bostonglobe.com).
+Once the new contents are in the `unfold - MASTER LIST`, a new page will be created and updated every minute. If done correctly, the new story will show up on [the unfold internal page](http://unfold.bostonglobe.com).
 
 ## Disable
-To stop updates and the ability to publish changes, simply remove the object from the *unfold - MASTER LIST*.
+To stop updates and the ability to publish changes, simply remove the object from the `unfold - MASTER LIST`.
