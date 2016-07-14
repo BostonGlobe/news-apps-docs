@@ -44,6 +44,17 @@ credit: Joe Mahoney / Globe Staff
 {}
 ```
 
+If you want to have it swap out a mobile-friendly image, you can add the `mobile` property. It will swap at **500px**
+
+```
+{.image}
+source: https://c.o0bg.com/rf/image_585w/Boston/2011-2020/2015/12/10/BostonGlobe.com/Business/Images/carmax-tweet.jpg
+mobile: https://c.o0bg.com/rf/image_585w/Boston/2011-2020/2015/12/10/BostonGlobe.com/Business/Images/carmax-mobile.jpg
+caption: Cars in a parking lot
+credit: Joe Mahoney / Globe Staff
+{}
+```
+
 ## Graphic
 Get the public url of a published iframe graphic OR MWB path to index.html file.
 
