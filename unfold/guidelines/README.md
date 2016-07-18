@@ -3,7 +3,7 @@
 To add content to the story, reference the usage instructions below for each type of content.
 
 ## Defaults
-All documents must contain a `hed` and `dek` up top. Optionally, you can include an `image` which will be used for social sharing, not visible on the page.
+All documents must contain a `hed`, `dek`, and `related` up top. Optionally, you can include an `image` which will be used for social sharing, not visible on the page, and a `section` tag, which defaults to *Metro*.
 
 Example:
 ```
