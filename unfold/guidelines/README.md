@@ -33,7 +33,9 @@ There could be a <a href=http://bostonglobe.com>link</a> to something here.
 ```
 
 ## Image
-Get the public url of an image published from Methode OR MWB path to image. Caption and credits are optional and can be left out.
+There are 3 ways to use an image. Caption and credit are always optional.
+
+Get the public url of an image:
 
 Example: 
 ```
@@ -44,8 +46,28 @@ credit: Joe Mahoney / Globe Staff
 {}
 ```
 
+If you directly publish from the methode **Images** folder, first you must portalPubBG the image. You must also find the date it was **CREATED**, and add a `date` field, including leading zeros.
+
+Example:
+```
+{.image}
+source: /Boston/Content/Politics/Images/05430749.jpg
+date: 2016/07/18
+{}
+```
+
+You can add the image to a WebGraphics folder, much like a graphic (but the size will be exactly as you insert it)
+
+Example:
+```
+{.image}
+source: /Boston/Content/Metro/WebGraphics/2016/07/18/test.jpg
+{}
+```
+
 If you want to have it swap out a mobile-friendly image, you can add the `mobile` property. It will swap at **500px**
 
+Example:
 ```
 {.image}
 source: https://c.o0bg.com/rf/image_585w/Boston/2011-2020/2015/12/10/BostonGlobe.com/Business/Images/carmax-tweet.jpg
