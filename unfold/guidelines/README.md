@@ -52,7 +52,7 @@ Example:
 ```
 {.image}
 source: /Boston/Content/Politics/Images/05430749.jpg
-date: 2016/07/18
+date: 2016-07-18
 {}
 ```
 
