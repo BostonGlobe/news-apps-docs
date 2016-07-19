@@ -35,7 +35,7 @@ There could be a <a href=http://bostonglobe.com>link</a> to something here.
 ## Image
 There are 3 ways to use an image. Caption and credit are always optional.
 
-Get the public url of an image:
+1. Get the public url of an image:
 
 Example: 
 ```
@@ -46,7 +46,7 @@ credit: Joe Mahoney / Globe Staff
 {}
 ```
 
-If you directly publish from the methode **Images** folder, first you must portalPubBG the image. You must also find the date it was **CREATED**, and add a `date` field, including leading zeros.
+2. If you directly publish from the methode **Images** folder, first you must portalPubBG the image. You must also find the date it was **CREATED**, and add a `date` field, including leading zeros.
 
 Example:
 ```
@@ -56,7 +56,7 @@ date: 2016/07/18
 {}
 ```
 
-You can add the image to a WebGraphics folder, much like a graphic (but the size will be exactly as you insert it)
+3. You can add the image to a WebGraphics folder, much like a graphic (but the size will be exactly as you insert it)
 
 Example:
 ```
