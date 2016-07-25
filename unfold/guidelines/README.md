@@ -8,6 +8,7 @@ All documents must contain a `hed`, `dek`, and `related` up top. Optionally, you
 ```
 hed: Trump is president
 dek: This will be a summary that explains how in two or three sentences.
+related: http://www.bostonglobe.com
 image: http://path/to/img.jpg 
 ```
 
@@ -19,7 +20,7 @@ subhed: How Trump made America great
 ```
 
 ## Text
-Simply write text. Links can be included with standard html links (note: no quotations)
+Simply write text. Links can be included with standard html links (note: no quotations). Each new line creates a new graf.
 
 ```
 In a landslide victory, Donald Trump will become the 45th president of the United States of America.
