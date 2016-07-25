@@ -88,7 +88,7 @@ id: 5012569570001
 ```
 
 ## Tweet
-Get the embed code of a tweet. *You just need from <blockquote to </blockquote>, but everything is okay too.*
+Get the embed code of a tweet. *You just need from `<blockquote to </blockquote>`, but everything is okay too.*
 
 ```
 {.tweet}
