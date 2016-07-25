@@ -96,7 +96,7 @@ id: 5012569570001
 ```
 
 ## Tweet
-Get the embed code of a tweet (you just need from blockquote to blockquote, but everything inside is okay too).
+Get the embed code of a tweet (you just need from <blockquote to </blockquote>, but everything is okay too).
 ```
 {.tweet}
 embed: <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everybody is so busy with <a href="https://twitter.com/hashtag/PokemonGo?src=hash">#PokemonGo</a> that we don&#39;t even have a &#39;Song of the Summer&#39; this year</p>&mdash; Chiqui Esteban (@chiquiesteban) <a href="https://twitter.com/chiquiesteban/status/757293263015538689">July 24, 2016</a></blockquote>
