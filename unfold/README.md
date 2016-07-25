@@ -12,6 +12,7 @@ An automated tool for the newsroom to update breaking stories as they unfold, qu
 * [Image](guidelines#image)
 * [Graphic](guidelines#graphic) (via the graphics team)
 * [Video](guidelines#video)
+* [Tweet](guidelines#tweet)
 
 ## How do you create one?
 * Contact [insert names here] to [setup a new story](setup)
