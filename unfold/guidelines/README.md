@@ -31,7 +31,7 @@ There could be a <a href=http://bostonglobe.com>link</a> to something here.
 ```
 
 ## Image
-There are 3 ways to use an image. Caption and credit are always optional.
+There are 3 ways to use an image. Only images hosted by the Globe are allowed. Caption and credit are always optional.
 
 1) Get the public url of an image:
 
