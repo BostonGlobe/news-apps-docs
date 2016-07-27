@@ -36,7 +36,7 @@ Once the new contents are in the `unfold - MASTER LIST`, a new page will be crea
 ## Disable
 To stop updates and the ability to publish changes, simply remove the object from the `unfold - MASTER LIST`.
 
-If you need to "delete" it from the public sphere, remove all the content (but leave the mandatory hed, dek, and [story] bits) and add `redirect: true` where the `hed` and `dek` are. When you publish again, it will have no content and will automatically go to the globe homepage.
+If you need to "delete" it from the public sphere, simply add `redirect: true` where the `hed` and `dek` are. When you publish again, it will have no content and will automatically go to the globe homepage.
 
 ## Remove paywall
 Add `meter: false` to the top of google doc where `hed` and `dek` are.
