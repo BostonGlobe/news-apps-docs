@@ -36,5 +36,10 @@ Once the new contents are in the `unfold - MASTER LIST`, a new page will be crea
 ## Disable
 To stop updates and the ability to publish changes, simply remove the object from the `unfold - MASTER LIST`.
 
+If you need to "delete" it from the public sphere, remove all the content (but leave the mandatory hed, dek, and [story] bits) and add `redirect: true` where the `hed` and `dek` are. When you publish again, it will have no content and will automatically go to the globe homepage.
+
+## Remove paywall
+Add `meter: false` to the top of google doc where `hed` and `dek` are.
+
 ## Errors 
 If the preview doesn't look like it should, *or* the updated date is not within a minute or two of the real time, there is probably an issue with the google doc. If the preview doesn't match the doc content, simply scan through the doc from top to bottom and see where it differs. Then consult the [guidelines](../guidelines) to verify it is formatted properly. 
