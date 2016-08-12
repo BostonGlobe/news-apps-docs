@@ -38,6 +38,9 @@ To stop updates and the ability to publish changes, simply remove the object fro
 
 If you need to "delete" it from the public sphere, simply add `redirect: true` where the `hed` and `dek` are. When you publish again, it will have no content and will automatically go to the globe homepage.
 
+## Remove box ad
+Add `ads: false` to the top of google doc where `hed` and `dek` are.
+
 ## Remove paywall
 Add `meter: false` to the top of google doc where `hed` and `dek` are.
 
